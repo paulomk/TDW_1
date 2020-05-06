@@ -1,0 +1,4 @@
+Este arquivo tem a finalidade de auxiliar a utilização e condução do projeto.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat aliquam justo, auctor facilisis quam varius a. Suspendisse mollis sit amet lectus a sollicitudin. Nunc auctor nisi a nibh semper, efficitur imperdiet neque feugiat. Pellentesque viverra sapien et metus suscipit accumsan. Vestibulum porta et nunc nec sagittis. Pellentesque non auctor tortor, eget sollicitudin tortor. Cras aliquet, dui nec tincidunt pulvinar, libero nibh dictum risus, vitae mollis lorem mi vitae nisi. Quisque scelerisque, augue eget rhoncus vulputate, nisi justo rhoncus magna, nec luctus dui lorem rhoncus arcu.
+
